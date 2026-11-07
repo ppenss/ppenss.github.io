@@ -1,0 +1,86 @@
+{
+ "latest": "ppe-nss-20261107T141109Z-42380319235",
+ "releases": [
+  {
+   "tag": "ppe-nss-20261107T141109Z-42380319235",
+   "time": 1794071520,
+   "groups": [
+    "ipq60xx-1g",
+    "ipq60xx-512m",
+    "ipq807x-1g",
+    "ipq807x-256m",
+    "ipq807x-512m",
+    "ipq807x-6m-kernel",
+    "xiaomi_ax3600"
+   ]
+  },
+  {
+   "tag": "ppe-nss-20261031T192351Z-41234004220",
+   "time": 1793484924,
+   "groups": [
+    "ipq60xx-1g",
+    "ipq60xx-512m",
+    "ipq807x-1g",
+    "ipq807x-256m",
+    "ipq807x-512m",
+    "xiaomi_ax3600"
+   ]
+  },
+  {
+   "tag": "ppe-nss-20261031T163603Z-41220420033",
+   "time": 1793474523,
+   "groups": [
+    "ipq60xx-1g",
+    "ipq60xx-512m",
+    "ipq807x-1g",
+    "ipq807x-256m",
+    "ipq807x-512m",
+    "xiaomi_ax3600"
+   ]
+  }
+ ],
+ "flavours": {
+  "ppe-nss": {
+   "latest": "ppe-nss-20261107T141109Z-42380319235",
+   "releases": [
+    {
+     "tag": "ppe-nss-20261107T141109Z-42380319235",
+     "time": 1794071520,
+     "groups": [
+      "ipq60xx-1g",
+      "ipq60xx-512m",
+      "ipq807x-1g",
+      "ipq807x-256m",
+      "ipq807x-512m",
+      "ipq807x-6m-kernel",
+      "xiaomi_ax3600"
+     ]
+    },
+    {
+     "tag": "ppe-nss-20261031T192351Z-41234004220",
+     "time": 1793484924,
+     "groups": [
+      "ipq60xx-1g",
+      "ipq60xx-512m",
+      "ipq807x-1g",
+      "ipq807x-256m",
+      "ipq807x-512m",
+      "xiaomi_ax3600"
+     ]
+    },
+    {
+     "tag": "ppe-nss-20261031T163603Z-41220420033",
+     "time": 1793474523,
+     "groups": [
+      "ipq60xx-1g",
+      "ipq60xx-512m",
+      "ipq807x-1g",
+      "ipq807x-256m",
+      "ipq807x-512m",
+      "xiaomi_ax3600"
+     ]
+    }
+   ]
+  }
+ }
+}
